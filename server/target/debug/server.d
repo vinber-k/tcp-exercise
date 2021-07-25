@@ -1,1 +1,1 @@
-/Users/Nov/workspace/github/substrate/tcp_echo/server/target/debug/server: /Users/Nov/workspace/github/substrate/tcp_echo/server/src/main.rs
+/Users/Nov/workspace/github/substrate/tcp-exercise/server/target/debug/server: /Users/Nov/workspace/github/substrate/tcp-exercise/server/src/main.rs
